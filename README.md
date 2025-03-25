@@ -1,6 +1,7 @@
 # Desafio05-DNC
 
-#Análise RFM de Clientes
+Análise RFM de Clientes
+
 Este repositório contém o código em Python desenvolvido como parte de um desafio do curso de Cientista de Dados da Escola DNC. O objetivo foi calcular as métricas de Recência (R), Frequência (F) e Valor Monetário (M) para os clientes de uma empresa fictícia do ramo de e-commerce.
 
 O que é RFM?
