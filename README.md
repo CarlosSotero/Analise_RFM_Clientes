@@ -1,6 +1,4 @@
-# Desafio05-DNC
-
-Análise RFM de Clientes
+## Análise RFM de Clientes
 
 Este repositório contém o código em Python desenvolvido como parte de um desafio do curso de Cientista de Dados da Escola DNC. O objetivo foi calcular as métricas de Recência (R), Frequência (F) e Valor Monetário (M) para os clientes de uma empresa fictícia do ramo de e-commerce.
 
@@ -13,7 +11,7 @@ M (Monetary): Valor do ticket médio gasto pelo cliente.
 
 O código recebe uma base de dados (arquivo CSV) como entrada e gera um arquivo CSV contendo a identificação dos clientes e as respectivas métricas RFM.
 
-Etapas Realizadas
+Etapas Realizadas:
 Leitura e inspeção dos dados.
 
 Remoção de valores faltantes na identificação do cliente.
@@ -46,5 +44,5 @@ Valor total de vendas por mês e país (apenas os 10 principais países).
 
 Cálculo do RFM.
 
-Aprendizado
+### 📖Aprendizado
 Este desafio foi uma oportunidade incrível para aplicar conceitos de data cleaning e data wrangling, além de visualizar dados com gráficos informativos. Estou orgulhoso dos resultados alcançados e confiante de que este é mais um passo importante na minha trajetória rumo à carreira de Cientista de Dados.
